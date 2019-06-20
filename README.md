@@ -9,7 +9,7 @@ At the home page you are supposed to give input on 3 criterias: Luas, Jumlah Kam
 
 ![rumah](images/home.png)
 
-Then, it will predict the best price of house based on your input criteria. This calculations are done by the Linear Regression method.
+Then, it will predict the best price of house based on your input criteria. These calculations are automatically done by machine learning with Linear Regression method.
 
 ![done](images/prediction.png)
 
